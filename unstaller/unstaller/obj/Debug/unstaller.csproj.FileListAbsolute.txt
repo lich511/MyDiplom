@@ -1,0 +1,15 @@
+C:\Users\Лич\Desktop\диплом\unstaller\unstaller\bin\Debug\unstaller.exe.config
+C:\Users\Лич\Desktop\диплом\unstaller\unstaller\bin\Debug\unstaller.exe
+C:\Users\Лич\Desktop\диплом\unstaller\unstaller\bin\Debug\unstaller.pdb
+C:\Users\Лич\Desktop\диплом\unstaller\unstaller\obj\Debug\MainWindow.g.cs
+C:\Users\Лич\Desktop\диплом\unstaller\unstaller\obj\Debug\App.g.cs
+C:\Users\Лич\Desktop\диплом\unstaller\unstaller\obj\Debug\unstaller_MarkupCompile.cache
+C:\Users\Лич\Desktop\диплом\unstaller\unstaller\obj\Debug\unstaller_MarkupCompile.lref
+C:\Users\Лич\Desktop\диплом\unstaller\unstaller\obj\Debug\MainWindow.baml
+C:\Users\Лич\Desktop\диплом\unstaller\unstaller\obj\Debug\unstaller.g.resources
+C:\Users\Лич\Desktop\диплом\unstaller\unstaller\obj\Debug\unstaller.Properties.Resources.resources
+C:\Users\Лич\Desktop\диплом\unstaller\unstaller\obj\Debug\unstaller.csproj.GenerateResource.cache
+C:\Users\Лич\Desktop\диплом\unstaller\unstaller\obj\Debug\unstaller.csproj.CoreCompileInputs.cache
+C:\Users\Лич\Desktop\диплом\unstaller\unstaller\obj\Debug\unstaller.exe
+C:\Users\Лич\Desktop\диплом\unstaller\unstaller\obj\Debug\unstaller.pdb
+C:\Users\Лич\Desktop\диплом\unstaller\unstaller\obj\Debug\unstaller.csprojAssemblyReference.cache

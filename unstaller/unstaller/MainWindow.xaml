@@ -1,0 +1,23 @@
+﻿<Window x:Class="unstaller.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:unstaller"
+        mc:Ignorable="d"
+        Closing="Window_Closing"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="liist" IsEnabled="False" Margin="10,69,249,10"></ListBox>
+        <Label x:Name="infoo" Margin="10,10,10,355"></Label>
+        <Button Content="Создать список с нуля" Click="but1_Click" x:Name="but1" Margin="0,69,112,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="132"/>
+        <Button Content="Удалить" Click="but2_Click" IsEnabled="False" x:Name="but2" Margin="0,94,169,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="75"/>
+        <Button Content="Добавить" Click="but3_Click" IsEnabled="False" x:Name="but3" Margin="0,119,169,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="75"/>
+        <Button Content="установить" x:Name="but4" Click="but4_Click" Margin="0,69,32,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="75"/>
+        <Button Content="Отключить клиентскую программу" x:Name="but5" Click="but5_Click"  Margin="0,144,43,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="201"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="548,319,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="записать" HorizontalAlignment="Left" Margin="674,319,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label Content="ip сервера" HorizontalAlignment="Left" Margin="548,288,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

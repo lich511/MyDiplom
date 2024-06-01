@@ -1,0 +1,7 @@
+C:\Users\Лич\Desktop\диплом\target\target\bin\Debug\target.exe.config
+C:\Users\Лич\Desktop\диплом\target\target\bin\Debug\target.exe
+C:\Users\Лич\Desktop\диплом\target\target\bin\Debug\target.pdb
+C:\Users\Лич\Desktop\диплом\target\target\obj\Debug\target.csprojAssemblyReference.cache
+C:\Users\Лич\Desktop\диплом\target\target\obj\Debug\target.csproj.CoreCompileInputs.cache
+C:\Users\Лич\Desktop\диплом\target\target\obj\Debug\target.exe
+C:\Users\Лич\Desktop\диплом\target\target\obj\Debug\target.pdb
